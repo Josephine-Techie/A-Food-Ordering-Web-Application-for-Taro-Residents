@@ -1,0 +1,2 @@
+# A-Food-Ordering-Web-Application-for-Taro-Residents
+There are these hostels for university students called Taro hostels that offer a safe learning environment for students while giving them some degree of freedom. These students are searching for not only healthy food but also affordable ones. The proposed app helps the customer to access the online food ordering platform, search for the dish they want to order, place their orders and pay easily.
