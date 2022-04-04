@@ -1,0 +1,19 @@
+Project Requirements
+
+The proposed system will have 2 users:
+
+Customers
+They should be able to:
+1. Register and log in to the system with ease.
+2. View the available dishes online.
+3. Order their dish of choice.
+4. Access the various payment options.
+5. View delivery time estimation.
+6. Give their reviews and rates.
+
+Hotel Manager
+They should be able to:
+1. Register and log in to the system with ease.
+2. View the received orders.
+3. Verify the legitimacy of the customers.
+4. Notify any changes with the dishes, pricing and delivery times.

@@ -1,0 +1,15 @@
+A Food Ordering Web Application for Taro Residents
+
+Description
+There are these hostels for university students called Taro hostels that offer a safe learning environment for students while giving them some degree of freedom. These students are searching for not only healthy food but also affordable ones. The proposed app helps the customer to access the online food ordering platform, search for the dish they want to order, place their orders and pay easily.
+
+Features of the system
+1. Push notifications in on - demand food ordering app.
+2. Easy payment options.
+3. Social medial integration.
+4. Easy order placement.
+
+Objectives
+1. To investigate other food ordering web applications
+2. To develop the suggested web application
+3. To test the created web application
